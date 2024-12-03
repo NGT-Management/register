@@ -1,0 +1,15 @@
+{
+    "description": "Project Description",
+    "domain": "is-not-a.dev",
+    "subdomain": "*.gptwrapped",
+
+    "owner": {
+        "repo": "https://github.com/NGT-Management/register",
+        "email": "radiodjmra@gmail.com"
+    },
+
+    "record": {
+        "A": ["76.76.21.21"],
+
+    "proxied": false
+}
